@@ -20,6 +20,7 @@
     }
 ```
 >## My Latest Repos:
+- [Feisbrut](https://github.com/giusene/Feisbrut-React-Social) - React Js Social Network
 - [Trillix](https://github.com/giusene/Thrillix) - Netflix clone for thriller movies
 - [U-235 Conspiracy](https://github.com/giusene/U235-Conspiracy-the-game) - A platform game entirely developed in Vanilla Javascript and Css
 - [LaBoutique](https://github.com/giusene/la-boutique) - JS E-Commerce Template
